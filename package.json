@@ -1,0 +1,38 @@
+{
+  "name": "tecnologia-humanista-site-11ty",
+  "version": "0.1.0",
+  "description": "Site Tecnologia Humanista contruído com 11ty",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celsobessa/tecnologia-humanista.git"
+  },
+  "keywords": [
+    "tecnologia",
+    "technology",
+    "tecnología",
+    "humanista",
+    "humanist",
+    "tecnologia",
+    "humanista",
+    "direitos",
+    "humanos",
+    "human",
+    "rights",
+    "humanism",
+    "humanismo",
+    "derechos",
+    "humanos",
+    "tecnología",
+    "humanista"
+  ],
+  "author": "Celso Bessa",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/celsobessa/tecnologia-humanista/issues"
+  },
+  "homepage": "https://github.com/celsobessa/tecnologia-humanista#readme"
+}
