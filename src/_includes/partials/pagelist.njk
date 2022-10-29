@@ -1,29 +1,30 @@
 {% if pagelist %}
-<aside class="pagelist">
+<section class="pagelist">
 
   {%- for post in pagelist -%}
   <article>
 
-    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    <h2 class="article-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
 
-    {% if post.data.date %}<p class="time"><time datetime="{{ post.data.date | dateymd }}">{{ post.data.date | datefriendly }}</time></p>{% endif %}
+    {% if post.data.date %}<p class="article-meta"><time datetime="{{ post.data.date | dateymd }}">{{ post.data.date | datefriendly }}</time></p>{% endif %}
 
     <p>{{ post.data.description }}</p>
+    <p><a href="{{ post.url }}" class="keep-reading">Leia: {{ post.data.title }}</a></p>
 
   </article>
   {%- endfor -%}
 
-</aside>
+</section>
 {% endif %}
 {% if pagination.href.previous or pagination.href.next %}
 <nav class="pagenav">
 
   {% if pagination.href.previous %}
-    <p><a href="{{ pagination.href.previous }}">previous</a></p>
+    <p><a href="{{ pagination.href.previous }}">anterior</a></p>
   {% endif %}
 
   {% if pagination.href.next %}
-    <p><a href="{{ pagination.href.next }}">next</a></p>
+    <p><a href="{{ pagination.href.next }}">próximo</a></p>
   {% endif %}
 
 </nav>

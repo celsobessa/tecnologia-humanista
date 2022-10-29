@@ -2,4 +2,8 @@
   <nav>
     {% navlist collections.all | eleventyNavigation, page, 1 %}
   </nav>
+  <div>
+    <h1>{{ title }}</h1>
+    {% if tagline %}<h2 class="tagline">{{ tagline }}</h2>{% endif %}
+  </div>
 </header>

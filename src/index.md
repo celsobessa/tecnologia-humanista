@@ -1,11 +1,16 @@
 ---
 layout: layout.njk
 title: Tecnologia Humanista
-metaTitle: Tecnologia Humanista -  Um diretório de links sobre tecnologia, democracia, privacidade, acessibilidade, direitos humanos e vída cívica
+metaTitle: "Tecnologia Humanista: tecnologia, democracia, privacidade, acessibilidade, direitos humanos e vída cívica"
+metaDescription: Um diretório colaborativo de notícias e recursos sobre tecnologia, democracia, privacidade, acessibilidade, direitos humanos e vída cívica.
+tagline: Um diretório colaborativo de notícias e recursos sobre tecnologia, democracia, privacidade, acessibilidade, direitos humanos e vída cívica.
 description: Um diretório de links sobre tecnologia, democracia, privacidade, acessibilidade, direitos humanos e vída cívica e assuntos afins que não rastreia se você clicou ou abriu o email, e não guarda nenhum dado além do seu email para preservar um pouco mais de sua privacidade.
 eleventyNavigation:
   key: Início
   order: 100
+pagination:
+  data: collections.post
+  alias: pagelist
+  reverse: true
+  size: 10
 ---
-
-Um diretório de links sobre tecnologia, democracia, privacidade, acessibilidade, direitos humanos e vída cívica e assuntos afins que não rastreia se você clicou ou abriu o email, e não guarda nenhum dado além do seu email para preservar um pouco mais de sua privacidade.
