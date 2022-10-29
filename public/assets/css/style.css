@@ -24,11 +24,10 @@ header>div {
 
 header h1,
 header .tagline {
+    margin: 0 auto;
     max-width: 1200px;
 }
 
-main {
-}
 
 article {
     max-width: 1200px;
@@ -123,27 +122,42 @@ small,
 
 @media screen and (min-width: 576px) {
     h1 {
-        font-size: 4.209rem;
+        font-size: 2.488rem;
         margin-top: 0;
     }
 
     h2 {
-        font-size: 3.157rem;
+        font-size: 2.074rem;
     }
 
     h3 {
-        font-size: 2.369rem;
+        font-size: 1.728rem;
     }
 
     h4 {
-        font-size: 1.777rem;
+        font-size: 1.44rem;
     }
 
     h5 {
-        font-size: 1.333rem;
+        font-size: 1.2rem;
     }
 
-    h6 {
-        font-weight: 600;
+    header>div {
+        padding: 5vw;
     }
+
+    article {
+        padding: 5vw;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+
 }
