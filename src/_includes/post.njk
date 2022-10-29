@@ -2,8 +2,10 @@
 
 {% block content %}
 
+  <article>
   {{ content | safe }}
 
+  </article>
   {% set nextPost = collections.post | getNextCollectionItem(page) %}
   {% if nextPost %}<p>Próximo ítem: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></p>{% endif %}
 

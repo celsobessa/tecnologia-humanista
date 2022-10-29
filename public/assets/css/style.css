@@ -28,13 +28,16 @@ header .tagline {
 }
 
 main {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 10vw;
 }
 
 article {
-    margin-bottom: 1.6rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10vw;
+}
+
+article:nth-of-type(even){
+    background-color: #eee;
 }
 
 h1,
@@ -60,7 +63,7 @@ h6 a {
 
 h1 {
     font-size: 1.802rem;
-    margin-top: 0;
+    margin: 0;
 }
 
 h2 {
@@ -96,6 +99,7 @@ small,
 .tagline {
     font-size: 1rem;
     font-weight: 400;
+    margin: 0;
 }
 
 /* .pagelist {
@@ -103,13 +107,14 @@ small,
 } */
 
 .article-title {
-    margin-bottom: 0;
+    margin: 0;
 }
 
 .article-meta {
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-style: italic;
-    margin-bottom: 0;
+    margin: 0;
+    margin-bottom: 1.6rem;
 }
 
 .keep-reading {
