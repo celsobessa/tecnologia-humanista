@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    color: #000000;
+    color: #333;
     font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-weight: 400;
     line-height: 1.75;
@@ -11,24 +11,30 @@ body {
     width: 100vw;
 }
 
-header > nav {
+header>nav {
     max-width: 1200px;
     margin: 0 auto;
+    padding: 0 5vw;
 }
 
-header > div {
+header>div {
     background-color: #fc0;
-    padding: 1rem 0;
+    padding: 7.5vw 10vw;
 }
+
 header h1,
 header .tagline {
     max-width: 1200px;
-    margin: 0 auto;
 }
 
 main {
     max-width: 1200px;
     margin: 0 auto;
+    padding: 0 10vw;
+}
+
+article {
+    margin-bottom: 1.6rem;
 }
 
 h1,
@@ -53,28 +59,33 @@ h6 a {
 }
 
 h1 {
-    font-size: 4.209rem;
+    font-size: 1.802rem;
     margin-top: 0;
 }
 
 h2 {
-    font-size: 3.157rem;
+    font-size: 1.602rem;
 }
 
 h3 {
-    font-size: 2.369rem;
+    font-size: 1.424rem;
 }
 
 h4 {
-    font-size: 1.777rem;
+    font-size: 1.266rem;
 }
 
 h5 {
-    font-size: 1.333rem;
+    font-size: 1.125rem;
 }
 
 h6 {
     font-weight: 600;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 1.6rem;
 }
 
 small,
@@ -83,11 +94,51 @@ small,
 }
 
 .tagline {
-    font-size: 1.333rem;
+    font-size: 1rem;
+    font-weight: 400;
 }
+
+/* .pagelist {
+    padding: 1rem 0;
+} */
+
 .article-title {
     margin-bottom: 0;
 }
+
 .article-meta {
-    margin-top: 0;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.keep-reading {
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 576px) {
+    h1 {
+        font-size: 4.209rem;
+        margin-top: 0;
+    }
+
+    h2 {
+        font-size: 3.157rem;
+    }
+
+    h3 {
+        font-size: 2.369rem;
+    }
+
+    h4 {
+        font-size: 1.777rem;
+    }
+
+    h5 {
+        font-size: 1.333rem;
+    }
+
+    h6 {
+        font-weight: 600;
+    }
 }

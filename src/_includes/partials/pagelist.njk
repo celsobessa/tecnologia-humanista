@@ -9,7 +9,10 @@
     {% if post.data.date %}<p class="article-meta"><time datetime="{{ post.data.date | dateymd }}">{{ post.data.date | datefriendly }}</time></p>{% endif %}
 
     <p>{{ post.data.description }}</p>
-    <p><a href="{{ post.url }}" class="keep-reading">Leia: {{ post.data.title }}</a></p>
+    <ul class="keep-reading">
+    <li><a href="{{ post.url }}">sumário</a></li>
+    {% if post.data.sourceUrl %}<li><a href="{{ post.data.sourceUrl }}">original em {{ post.data.sourceTitle }} (em {{ post.data.sourceLanguageText }})</a></li>{% endif %}
+    </ul>
 
   </article>
   {%- endfor -%}

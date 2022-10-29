@@ -1,6 +1,9 @@
 ---
 title: Recurso "nunca-consentir" do navegador Ghostery
 description: Nem todas as notícias sobre rastreamento e anúncios comportamentais são ruins. Além do escrutínio regulatório [3], pesquisadores, startups, organizações da sociedade civil e outros atores estão pesquisando ativamente melhores ferramentas e protocolos para ajudar o usuário a melhorar sua privacidade.
+sourceTitle: Ghostery
+sourceUrl: https://www.ghostery.com/blog/never-consent-by-ghostery-new-feature-removing-annoying-cookie-pop-ups-automates-interaction-with-consent-dialogs/
+sourceLanguageText: Inglês
 
 date: 2022-09-29
 tags:
