@@ -1,9 +1,17 @@
+
 html {
+    box-sizing: border-box;
     font-size: 100%;
 }
 
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 body {
-    color: #333;
+    color: #444;
     font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-weight: 400;
     line-height: 1.75;
@@ -11,19 +19,81 @@ body {
     width: 100vw;
 }
 
-header>nav {
-    max-width: 1200px;
+nav {
+    background-color: #000;
+    min-height: 10vh;
     margin: 0 auto;
-    padding: 0 5vw;
+    width: 100vw;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+    min-height: 10vh;
+    padding: 0;
+}
+
+nav li {
+    align-items: center;
+    color: #fc0;
+    display: flex;
+    flex-basis: 33%;
+    font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    min-height: 10vh;
+    justify-content:center;
+    text-align: center;
+    list-style-type: none;
+    list-style-position: outside;
+}
+nav ul li:hover,
+nav ul li a:focus {
+    background-color: #555;
+}
+nav ul li a {
+    color: #fd0;
+}
+nav li:hover a,
+nav ul li a:focus {
+    color: #fff;
+}
+nav ul li.active,
+nav ul li.active a {
+    background-color: #fc0;
+    color: #000;
+}
+.pagenav,
+.postnav {
+    background-color: #444;
+    padding: 1rem;
+}
+.pagenav li,
+.postnav li{
+    flex-basis: 100%;
+    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.2;
 }
 
 header>div {
     background-color: #fc0;
-    padding: 7.5vw 10vw;
+    min-height: 20vh;
+    padding: 5%;
+    width: 100vw;
 }
 
-header h1,
-header .tagline {
+header h1 {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+header .tagline,
+header .meta {
     margin: 0 auto;
     max-width: 1200px;
 }
@@ -32,11 +102,13 @@ header .tagline {
 article {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 10vw;
+    padding: 5%;
+    width: 100vw;
 }
 
 article:nth-of-type(even){
-    background-color: #eee;
+    background-color: #222;
+    color: #ddd;
 }
 
 h1,
@@ -45,10 +117,20 @@ h3,
 h4,
 h5,
 h6 {
+    color: #000;
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     margin: 3rem 0 1.38rem;
     font-weight: 600;
     line-height: 1.3;
+}
+
+article:nth-of-type(even) a,
+article:nth-of-type(even) a,
+article:nth-of-type(even) a,
+article:nth-of-type(even) a,
+article:nth-of-type(even) a,
+article:nth-of-type(even) a{
+    color: #fff;
 }
 
 h1 a,
@@ -95,21 +177,21 @@ small,
     font-size: 0.75rem;
 }
 
-.tagline {
+/* .tagline {
     font-size: 1rem;
     font-weight: 400;
     margin: 0;
-}
+} */
 
 /* .pagelist {
     padding: 1rem 0;
 } */
 
-.article-title {
+ .article-title {
     margin: 0;
 }
 
-.article-meta {
+.meta {
     font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-style: italic;
     margin: 0;
@@ -117,11 +199,41 @@ small,
 }
 
 .keep-reading {
+    /* margin-bottom: 1rem; */
+    list-style-type: none;
+    list-style-position: outside;
+    padding: 0;
+}
+
+.keep-reading li {
+    background-color: #fc0;
+    border-left: 1rem solid #f60;
+    padding: 0.5rem;
     margin-bottom: 1rem;
 }
 
+
+.keep-reading a,
+article:nth-of-type(even) .keep-reading a {
+    color: #000;
+    text-decoration: none;
+}
+
 @media screen and (min-width: 576px) {
-    h1 {
+    nav {
+    min-height: 5vh;
+}
+nav ul {
+    min-height: 5vh;
+}
+
+nav li {
+    min-height: 5vh;
+}
+    header>div {
+        min-height: 10vh;
+    }
+    /* h1 {
         font-size: 2.488rem;
         margin-top: 0;
     }
@@ -140,17 +252,9 @@ small,
 
     h5 {
         font-size: 1.2rem;
-    }
-
-    header>div {
-        padding: 5vw;
-    }
-
-    article {
-        padding: 5vw;
-    }
+    } */
 }
-
+/*
 @media screen and (min-width: 768px) {
 
 }
@@ -160,4 +264,4 @@ small,
 
 @media screen and (min-width: 1200px) {
 
-}
+} */

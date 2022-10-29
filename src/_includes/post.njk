@@ -5,11 +5,16 @@
   <article>
   {{ content | safe }}
 
+    <ul class="keep-reading">
+    {% if sourceUrl %}<li><a href="{{ sourceUrl }}">ler original em {{ sourceTitle }} (em {{ sourceLanguageText }})</a></li>{% endif %}
+    </ul>
   </article>
-  {% set nextPost = collections.post | getNextCollectionItem(page) %}
-  {% if nextPost %}<p>Próximo ítem: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></p>{% endif %}
+  <nav class="postnav">
+    <ul>
 
   {% set previousPost = collections.post | getPreviousCollectionItem(page) %}
-  {% if previousPost %}<p>Ítem anterior: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></p>{% endif %}
+  {% if previousPost %}<li><a href="{{ previousPost.url }}">Ler ítem anterior:<br/>{{ previousPost.data.title }}</a></li>{% endif %}
 
 {% endblock %}
+    </ul>
+</nav>

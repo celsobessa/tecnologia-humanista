@@ -1,10 +1,10 @@
 <header>
-  <nav>
+  <nav class="general-navigation">
     {% navlist collections.all | eleventyNavigation, page, 1 %}
   </nav>
   <div>
     <h1>{{ title }}</h1>
-    {% if tagline %}<h2 class="tagline">{{ tagline }}</h2>{% endif %}
-  {% if date %}<p class="article-meta"><time datetime="{{ date | dateymd }}">{{ date | datefriendly }}</time></p>{% endif %}
+    {% if metaDescription %}<p class="tagline">{{ metaDescription }}</p>{% endif %}
+  {% if date and layout === 'post.njk' %}<p class="meta"><time datetime="{{ date | dateymd }}">{{ date | datefriendly }}</time></p>{% endif %}
   </div>
 </header>
