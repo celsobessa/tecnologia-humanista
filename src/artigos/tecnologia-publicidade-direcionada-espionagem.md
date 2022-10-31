@@ -1,6 +1,9 @@
 ---
 title: A tecnologia de publicidade direcionada é tecnologia de espionagem
 description: Essa não é apenas a minha opinião. Vários pesquisadores, ativistas e organizações da sociedade civil pensam assim, e o corpo de pesquisa que respalda essa afirmação está crescendo.
+sourceTitle: Ghostery
+sourceUrl: https://www.ghostery.com/blog/what-is-web-tracking-how-can-i-browse-safely
+sourceLanguageText: Inglês
 
 date: 2022-09-28
 tags:
