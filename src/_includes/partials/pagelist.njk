@@ -10,8 +10,8 @@
 
     <p>{{ post.data.description }}</p>
     <ul class="keep-reading">
-    <li><a href="{{ post.url }}">ler sumário</a></li>
-    {% if post.data.sourceUrl %}<li class="keep-reading-original"><a href="{{ post.data.sourceUrl }}">ler original em {{ post.data.sourceTitle }} (em {{ post.data.sourceLanguageText }})</a></li>{% endif %}
+    <li><a href="{{ post.url }}">leia mais</a></li>
+    {% if post.data.sourceUrl %}<li class="keep-reading-original"><a href="{{ post.data.sourceUrl }}">leia o original em {{ post.data.sourceTitle }} (em {{ post.data.sourceLanguageText }})</a></li>{% endif %}
     </ul>
 
   </article>
