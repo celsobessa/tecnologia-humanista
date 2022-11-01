@@ -17,12 +17,7 @@ Um interessante artigo do Center for Democracy and Technology sobre transparênc
 > We present findings in two parts: (1) guidelines about what information should be included in recommendation algorithm transparency reports, and how it should be presented; and (2) initial suggestions, in the form of prototypes, about more engaging and interactive ways of presenting such information to users, with an evaluation of their strengths and weaknesses.
 >
 > UX for Algorithmic Transparency:
-<<<<<<< HEAD
 >
-> (https://medium.com/@carolinesinders/ux-for-algorithmic-transparency-afb52621c454)
-=======
-> 
 > [https://medium.com/@carolinesinders/ux-for-algorithmic-transparency-afb52621c454]
->>>>>>> 792a01b6a983750badfe093c881e8895780907bc
 >
 > [This is Transparency to Me – Research Prototypes](https://cdt.org/insights/this-is-transparency-to-me-research-prototypes/)
