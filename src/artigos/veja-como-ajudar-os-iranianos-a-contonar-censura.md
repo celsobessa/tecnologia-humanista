@@ -10,7 +10,7 @@ tags:
   - Democracia
 ---
 
-Com as manifestações cada vez maiores nos últimos dias, o governo iraniano está tentando restringir a capacidade dos manifestantes de informar ao mundo o que está acontecendo lá. Além de diferentes níveis de interrupção da Internet, estão bloqueando o acesso ao [Signal](https://signal.org/pt_BR/), aplicação de mensagens instantâneas criptografadas, uma importante ferramenta para comunicação de forma mais segura e privada.
+Com as manifestações cada vez maiores nos últimos dias, o governo iraniano está tentando restringir a capacidade dos manifestantes de informar ao mundo o que está acontecendo lá. Além de diferentes níveis de interrupção da Internet, estão bloqueando o acesso ao [Signal](https://signal.org/pt_BR/), aplicativo de mensagens instantâneas criptografadas, uma importante ferramenta para comunicação de forma mais segura e privada.
 
 Se você manja de tecnologias web, pode ajudar o povo iraniano instalando um proxy Signal em um servidor web e utilizando um nome de domínio que você possui. As instruções estão neste post em inglês [https://signal.org/blog/run-a-proxy/](https://signal.org/blog/run-a-proxy/) .
 

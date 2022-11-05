@@ -16,7 +16,7 @@ tags:
 
 _"A saúde digital tem suas vantagens. A privacidade não é uma delas._
 
-_Em uma nação com milhões de famílias sem seguro e escassez de profissionais de saúde, muitos de nós recorremos a aplicativos e sites de saúde para obter informações acessíveis ou até mesmo tratamento em potencial. Mas quando você inicia um aplicativo de verificação de sintomas ou terapia digital, pode estar compartilhando suas preocupações sem saber com mais do que apenas o criador do aplicativo."_
+_Em uma nação com milhões de famílias sem seguro e escassez de profissionais de saúde, muitos de nós recorremos a aplicativos e sites de saúde para obter informações acessíveis ou até mesmo tratamento em potencial. Mas quando você inicia um aplicativo de verificação de sintomas ou terapia digital, pode estar compartilhando suas preocupações, sem saber, com mais do que apenas o criador do aplicativo."_
 
 Isso é assustador, perigoso e, ouso dizer, imoral.
 

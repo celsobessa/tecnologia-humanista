@@ -20,4 +20,4 @@ O painel reuniu pesquisadores e ativistas de áreas técnicas e legais e a conve
 
 _"Com o discurso do combate ao cibercrime e à desinformação, por exemplo, iniciativas legislativas colocam em risco a proteção oferecida pela criptografia a direitos importantes da sociedade, como a privacidade, a proteção aos dados pessoais e a liberdade de expressão."
 
-* Assista a Painel - ISOC Brasil e CESeg: Criptografia na Proteção a Grupos Vulneráveis em [https://www.youtube.com/watch?v=TOD5eStNSEE](https://www.youtube.com/watch?v=TOD5eStNSEE)
+* Assista ao Painel - ISOC Brasil e CESeg: Criptografia na Proteção a Grupos Vulneráveis em [https://www.youtube.com/watch?v=TOD5eStNSEE](https://www.youtube.com/watch?v=TOD5eStNSEE)
