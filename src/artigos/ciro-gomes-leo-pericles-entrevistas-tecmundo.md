@@ -1,6 +1,9 @@
 ---
 title: Ciro Gomes e Léo Péricles em série de entrevistas do TecMundo com presidenciáveis
 description: O Tecmundo começou série onde convidou presidenciáveis para apresentar suas propostas para ciência, tecnologia e saúde. As primeiras entrevistas foram com Ciro Gomes e Léo Péricles.
+sourceTitle: Ghostery
+sourceUrl: https://www.youtube.com/c/tecmundo/
+sourceLanguageText: Portugu
 
 date: 2022-09-27
 tags:

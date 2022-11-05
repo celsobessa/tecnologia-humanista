@@ -1,6 +1,9 @@
 ---
 title: Os aplicativos de saúde compartilham seus problemas com os anunciantes. (The Washington Post)
 description: Isso é assustador, perigoso e, ouso dizer, imoral.
+sourceTitle: The Washington Post
+sourceUrl: https://www.washingtonpost.com/technology/2022/09/22/health-apps-privacy/
+sourceLanguageText: Inglês
 
 date: 2022-09-29
 tags:

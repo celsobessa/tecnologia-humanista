@@ -1,6 +1,9 @@
 ---
 title: Contornando a censura no Irã com o Tor
 description: Se por acaso você estiver lendo este artigo enquanto estiver no Irã, aqui está a tradução de algumas instruções do Projeto Tor que podem ajudá-la/o, publicada originalmente em inglês no fórum oficial.
+sourceTitle: Fórum TOR Browser
+sourceUrl: https://forum.torproject.net/t/iran-circumventing-censorship-with-tor/4590
+sourceLanguageText: Inglês
 
 date: 2022-09-28
 tags:

@@ -1,6 +1,9 @@
 ---
 title: Militares dos EUA compraram ferramenta de monitoramento em massa bem assustadora
 description: Esta notícia ainda está se desenrolando e, se comprovada, pinta um cenário muito assustador. Não totalmente inesperado, mas assustador de qualquer maneira.
+sourceTitle: Vice
+sourceUrl: https://www.vice.com/en/article/y3pnkw/us-military-bought-mass-monitoring-augury-team-cymru-browsing-email-data
+sourceLanguageText: Inglês
 
 date: 2022-09-28
 tags:

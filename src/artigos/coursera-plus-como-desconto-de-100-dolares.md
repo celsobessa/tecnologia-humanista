@@ -1,6 +1,9 @@
 ---
 title: Coursera Plus como desconto de 100 dólares até 29 de setembro
 description: Coursera Plus é a assinatura anual quase completa da plataforma de cursos à distância que inclui certificados e especializações de universidades como e organizações como Google, Meta, Microsoft entre outras. É uma boa oportunidade para obter vários certificados e especializações por um bom preço.
+sourceTitle: CelsoBessa.Com.Br
+sourceUrl: https://celsobessa.com.br/2022/09/12/coursera-plus-desconto-de-100-dolares-ate-29-de-setembro-para-dezenas-de-certificacoes-e-especializacoes/
+sourceLanguageText: Português
 
 date: 2022-09-27
 tags:

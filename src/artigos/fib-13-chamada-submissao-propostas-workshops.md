@@ -1,6 +1,9 @@
 ---
 title: "FIB13 - Fórum da Internet Brasil 2023: Chamada Para Submissão De Propostas De Workshops"
 description: Saiba mais sobre a chamada Para Submissão De Propostas De Workshops ao FIB13 - Fórum da Internet Brasil 2023
+sourceTitle: Site Fórum da Internet no Brasil
+sourceUrl: https://forumdainternet.cgi.br/chamada-submissao-propostas-workshops/
+sourceLanguageText: Português
 
 date: 2022-09-28
 tags:

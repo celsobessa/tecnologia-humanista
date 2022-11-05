@@ -1,6 +1,9 @@
 ---
 title: Entre a multidão e o perfilamento (Entre la multitud y el perfilamiento)
 description: Artigo, em Espanhol, de Lucía Camacho Gutiérrez e Daniel Ospina Celis, da Dejusticia (Colômbia) sobre como o uso de mídias sociais e informações abertas (OSINT - _open source intelligence_) contra jornalistas e dissidentes ameaça a esfera pública como um todo.
+sourceTitle: El Tiempo
+sourceUrl: https://blogs.eltiempo.com/no-hay-derecho/2022/09/21/entre-la-multitud-y-el-perfilamiento/
+sourceLanguageText: Espanhol
 
 date: 2022-09-27
 tags:

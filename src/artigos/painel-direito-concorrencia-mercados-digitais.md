@@ -1,6 +1,9 @@
 ---
 title: Painel Direito da Concorrência e Mercados Digitais
 description: Realizado pelo Núcleo de Direito Concorrencial e Economia Digital (Nuced) da Universidade de São Paulo, em parceria com o Instituto Brasileiro de Defesa do Consumidor (Idec), com panelistas discutindo desafios e oportunidades para a garantir de direitos em mercados digitais.
+sourceTitle: Canal NUCED/USP no YouTube
+sourceUrl: https://www.youtube.com/watch?v=lq2Y9SOYQjo
+sourceLanguageText: Portugu
 
 date: 2022-09-27
 tags:

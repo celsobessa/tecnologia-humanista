@@ -1,6 +1,9 @@
 ---
 title: "Artigo: Ajustando as lentes - novas teorias do dano para plataformas digitais (Beatriz Kira e Diogo R Coutinho)"
 description: O foco do artigo é o direito concorrencial e anti-truste, mas esta mudança perspective tem o potencial de impactar em outras áreas de direito.
+sourceTitle: Revista CADE
+sourceUrl: https://revista.cade.gov.br/index.php/revistadedefesadaconcorrencia/article/view/734
+sourceLanguageText: Português
 
 date: 2022-09-27
 tags:
