@@ -1,6 +1,6 @@
 ---
-title: The Next TCU In-Person Global Event is Coming!
-description: 
+title: O próximo evento global presencial do TCU está chegando!
+description: O Team CommUNITY (TCU) é uma rede comunitária que reúne defensores digitais de todo o mundo. E o próximo evento global presencial está chegando!
 sourceTitle: The Next TCU In-Person Global Event is Coming!
 sourceUrl: https://www.digitalrights.community/blog/globalgathering2023
 sourceLanguageText: Inglês
@@ -8,15 +8,15 @@ sourceLanguageText: Inglês
 date: 2022-09-19
 tags:
   - notícias
-  - tag 2
-  - tag 3
-  - tag 4
-  - tag 5
+  - evento
+  - ativismo digital
+  - TCU
+  - ativismo
 ---
 
-Team CommUNITY (TCU) is a community-based membership network that brings together digital defenders from across the globe fighting surveillance, censorship, and other issues sitting at the intersection of human rights and technology. 
+O Team CommUNITY (TCU) é uma rede comunitária que reúne defensores digitais de todo o mundo que lutam contra vigilância, censura e outras questões situadas na interseção de direitos humanos e tecnologia.
 
-And the next TCU In-Person Global Event is Coming! Find out How You Can Participate! But be ready for changes.
+E o próximo evento global presencial do TCU está chegando! Saiba como você pode participar! Mas esteja pronto para mudanças.
 
-Leia mais: [https://www.digitalrights.community/blog/globalgathering2023](https://www.digitalrights.community/blog/globalgathering20230)
+* Leia mais: [https://www.digitalrights.community/blog/globalgathering2023](https://www.digitalrights.community/blog/globalgathering20230)
 

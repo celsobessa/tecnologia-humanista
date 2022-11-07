@@ -1,6 +1,6 @@
 ---
-title: Why Signal won’t compromise on encryption, with president Meredith Whittaker
-description: Signal messages are more private than iMessage and WhatsApp. Here’s how.
+title: Por que o Signal não comprometerá a criptografia, com a presidente Meredith Whittaker
+description: A presidente do Signal conta em entrevista à Vice por quê não abrirão mão da criptografia.
 sourceTitle: Why Signal won’t compromise on encryption, with president Meredith Whittaker
 sourceUrl: https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china
 sourceLanguageText: Inglês
@@ -14,7 +14,7 @@ tags:
   - messaging apps
 ---
 
-A presidente da Signal, conta em entrevista à Vice por quê não abrirão mão de (boa) criptografia. Em inglês.
+A presidente do Signal conta em entrevista à Vice por quê a empresa não irá abrir mão da (boa) criptografia. Em inglês.
 
 > Meredith Whittaker is the president of Signal, the popular messaging app that offers encrypted communication. You might recognize Meredith’s name from a different context: in 2018, she was an AI researcher at Google and one of the organizers of the Google walkout, during which 20,000 employees protested the company’s handling of sexual misconduct. Meredith also protested the company’s work on military contracts before leaving in 2019.
 > 
@@ -22,4 +22,4 @@ A presidente da Signal, conta em entrevista à Vice por quê não abrirão mão 
 >
 > But messaging apps — especially encrypted messaging apps — are a complicated business.
 
-Leia mais: [https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china)
+* Leia mais: [https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china](https://www.theverge.com/23409716/signal-encryption-messaging-sms-meredith-whittaker-imessage-whatsapp-china)
