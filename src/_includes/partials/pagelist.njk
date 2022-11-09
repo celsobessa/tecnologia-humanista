@@ -22,14 +22,15 @@
 {% if pagination.href.previous or pagination.href.next %}
 <nav class="pagenav">
     <ul>
-    {% if pagination.href.previous %}
-        <li><a href="{{ pagination.href.previous }}">
-&laquo; anteriores</a></li>
-    {% endif %}
 
     {% if pagination.href.next %}
-        <li><a href="{{ pagination.href.next }}">seguintes
-&raquo;</a></li>
+        <li><a href="{{ pagination.href.next }}">&laquo; mais antigos</a></li>
+    {% endif %}
+
+    {% if pagination.href.previous %}
+        <li><a href="{{ pagination.href.previous }}">mais recentes
+&raquo;
+</a></li>
     {% endif %}
     </ul>
 </nav>
