@@ -13,6 +13,10 @@ tags:
   - direct messages
   - criptografia
 ---
+
+Ao contrário do que muita gente pensa, as mensagens diretas no Twitter (DM, Direct Message) não são criptografadas.
+
+
 > "O presidente-executivo do Twitter, Elon Musk, confirmou os planos de criptografia de ponta a ponta (E2EE) para mensagens diretas na plataforma.
 >
 > Os planos da empresa para mensagens criptografadas surgiram pela primeira vez em meados de novembro de 2022, quando a pesquisadora móvel Jane Manchun Wong detectou alterações no código-fonte no aplicativo Android do Twitter referenciando chaves de conversa para bate-papos E2EE."
