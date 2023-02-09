@@ -3,7 +3,7 @@
     {% navlist collections.all | eleventyNavigation, page, 1 %}
   </nav>
   <div>
-    <h1>{{ title }}</h1>
+    <h1>{{ title | escape}}</h1>
     {% if metaDescription %}<p class="tagline">{{ metaDescription }}</p>{% endif %}
   {% if date and layout === 'post.njk' %}<p class="meta"><time datetime="{{ date | dateymd }}">{{ date | datefriendly }}</time></p>{% endif %}
   </div>
