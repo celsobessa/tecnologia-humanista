@@ -1,6 +1,6 @@
 ---
 title: Concurso de Maquiagem Contra Reconhecimento Facial
-description: Concurso de maquiagem \#MeuRostoNão, promovido pela campanha “Tire Meu Rosto da Sua Mira”, pretende mobilizar as pessoas para a questão do uso das tecnologias digitais de reconhecimento facial na Segurança Pública no Brasil.
+description: Concurso de maquiagem MeuRostoNão, promovido pela campanha “Tire Meu Rosto da Sua Mira”, pretende mobilizar as pessoas para a questão do uso das tecnologias digitais de reconhecimento facial na Segurança Pública no Brasil.
 sourceTitle: Tire Meu Rosto da sua Mira
 sourceUrl: https://tiremeurostodasuamira.org.br/
 sourceLanguageText: Português
