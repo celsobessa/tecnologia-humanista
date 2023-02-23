@@ -3,7 +3,7 @@ title: 4 maneiras de protejer sua conta no Twitter em meio ao caos.
 description: Recém-adquirido por Elon Musk, o Twitter tem sofrido com demissões em massa e problemas técnicos. Enquanto decide se quer abandonar o app, que deve passar a flertar abertamente com a extrema-direita, vale tomar medidas para proteger sua conta.
 sourceTitle: With Twitter in chaos, some ways to protect your account
 sourceUrl: https://apnews.com/article/twitter-tips-to-protect-your-account-7f2eb222c81691fe2567718d601509fd
-sourceLanguageText: 
+sourceLanguageText: Inglês
 
 date: 2022-11-18
 tags: 
