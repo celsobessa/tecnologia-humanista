@@ -1,12 +1,12 @@
 ---
 title: Webinário Senhas Mais Seguras sem Enlouquecer - Dia da Internet Segura
-description: Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário te ensiando como ter senhas mais seguras e únicas sem enlouquer.  O Webinário Senhas Mais Seguras sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
+description: Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário te ensiando como ter senhas mais seguras e únicas sem enlouquecer.  O Webinário Senhas Mais Seguras sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
 eleventyNavigation:
   key: Webinário Dia da Internet Segura 2024
   order: 200
 ---
 
-Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário te ensiando como ter senhas mais seguras e únicas sem enlouquer.  O Webinário Senhas Mais Seguras sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
+Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário te ensiando como ter senhas mais seguras e únicas sem enlouquecer.  O Webinário Senhas Mais Seguras Sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
 
 ## Como participar
 
