@@ -90,14 +90,16 @@ header>div {
 header h1 {
     margin: 0 auto;
     max-width: 1200px;
+    padding: 0 5%;
 }
 
 header .tagline,
 header .meta {
     margin: 0 auto;
     max-width: 1200px;
+    padding: 0 5%;
 }
-
+/* article */
 
 article {
     max-width: 1200px;
