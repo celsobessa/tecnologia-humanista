@@ -1,5 +1,5 @@
 ---
-title: Perguntas e Respostas (FAQ) sobre o tradado das Nações Unidas sobre Crimes Cibernéticos
+title: Perguntas e Respostas (FAQ) sobre o tratado das Nações Unidas sobre Crimes Cibernéticos
 description: A AccessNow publicou recentemente uma seção de Perguntas e Respostas (FAQ) sobre a Convenção e Tratado das Nações Unidas sobre Crimes Cibernéticos (UN Cybercrime Treaty). Além de perguntas e respostas, conta com uma linha de tempo levando a diversas outras notícias, artigos, reportagens, e estudos sobre o tema. Vale a pena acompanhar.
 sourceTitle: 'UN Cybercrime Convention: FAQ on necessary reforms'
 sourceUrl: https://www.accessnow.org/guide/faq-un-cybercrime-convention-ahc/
