@@ -3,7 +3,7 @@ title: 'Em comemoração ao Dia Internacional da Proteção de Dados, ANPD e CER
 description: '"Fascículos da Cartilha de Segurança para Internet trazem orientações sobre como resguardar informações pessoais, financeiras e senhas no ambiente online, e o que fazer em caso de vazamento"'
 sourceTitle: 'Em comemoração ao Dia Internacional da Proteção de Dados, ANPD e CERT.br lançam novas publicações'
 sourceUrl: https://www.gov.br/anpd/pt-br/assuntos/noticias/em-comemoracao-ao-dia-internacional-da-protecao-de-dados-cert-br-lanca-novas-publicacoes-sobre-o-tema
-sourceLanguageText: Inglês17
+sourceLanguageText: Inglês
 tags:
   - bitcoin
   - anonimato

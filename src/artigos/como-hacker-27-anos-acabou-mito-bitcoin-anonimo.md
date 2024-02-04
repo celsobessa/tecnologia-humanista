@@ -4,7 +4,9 @@ description: 'Para quem pensa que BitCoin é anônimo, melhor repensar a esta id
 sourceTitle: '
 How a 27-Year-Old Codebreaker Busted the Myth of Bitcoin’s Anonymity'
 sourceUrl: https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/
-sourceLanguageText: Inglês17
+sourceLanguageText: Inglês
+
+date: 2024-01-17
 tags:
   - bitcoin
   - anonimato

@@ -9,6 +9,7 @@ date: 2022-10-18
 tags:
   - notícias
   - spyware
+  - programas espiões
   - app
   - copa do mundo
   - catar

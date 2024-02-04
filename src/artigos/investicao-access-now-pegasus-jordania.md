@@ -11,6 +11,7 @@ tags:
   - jordânia
   - accessnow
   - spyware
+  - programas espiões
   - nso
   - programas espiões
 ---
