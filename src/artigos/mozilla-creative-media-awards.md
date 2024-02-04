@@ -6,11 +6,11 @@ sourceUrl: https://foundation.mozilla.org/en/what-we-fund/awards/creative-media-
 sourceLanguageText: Inglês
 
 date: 2022-11-22
-tags: 
+tags:
   - notícias
   - mozilla
   - grant
-  - AI
+  - ai
   - responsible design
 ---
 

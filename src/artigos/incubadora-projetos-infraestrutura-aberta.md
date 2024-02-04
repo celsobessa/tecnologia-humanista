@@ -10,7 +10,7 @@ tags:
   - notícias
   - incubadora
   - código aberto
-  - Code for Science & Societ
+  - code for science & Societ
   - tecnologia
 ---
 

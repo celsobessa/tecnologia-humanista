@@ -6,7 +6,7 @@ sourceUrl: https://privacyinternational.org/press-release/4962/eu-ombudsman-open
 sourceLanguageText: Inglês
 
 date: 2022-10-10
-tags: 
+tags:
   - notícias
   - união europeia
   - vigilância

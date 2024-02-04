@@ -10,8 +10,8 @@ tags:
   - notícias
   - tutorial
   - censura
-  - Irã
-  - TOR
+  - irã
+  - tor
 ---
 
 Se por acaso você estiver lendo este artigo enquanto estiver no Irã, aqui está a tradução de algumas instruções do Projeto Tor que podem ajudá-la/o, publicada originalmente em inglês no fórum oficial.
@@ -27,7 +27,7 @@ Se por acaso você estiver lendo este artigo enquanto estiver no Irã, aqui est�
 > Se você não conseguir buscar atualizações, você poderia nos informar em frontdesk@torproject.org qual versão do navegador Tor e plataforma (sistema operacional) você está executando?
 >
 > Você também pode baixar a versão mais recente do nosso espelho: https://tor.calyxinstitute.org/download/ 591 ou Telegram: Contact @GetTor_bot 149.
-> 
+>
 > O Tor Browser 11.5+ é fornecido com o Connection Assist, que, quando necessário, oferecerá a aplicação automática da configuração da ponte que funciona melhor em sua localização.
 >
 > Se o Connection Assist não conseguir determinar sua localização, ou você deseja configurar sua conexão manualmente, você pode selecionar sua região (ou seja, Irã) no menu suspenso e clicar em 'Try a Bridge'.

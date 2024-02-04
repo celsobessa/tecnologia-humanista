@@ -10,9 +10,9 @@ tags:
   - accessnow
   - crimes cibernéticos
   - cybercrime
-  - Nações Unidas
-  - Declarações
-  - Ativismo
+  - nações Unidas
+  - declarações
+  - ativismo
 ---
 
 A AccessNow publicou recentemente uma declaração -- Amend or reject, joint statement on the UN Cybercrime Treaty -- conjunto com diversas outras organizações, recomendado que a ONU rejeite o Tratado sobre Crimes Cibernéticos, como está sendo proposto atualmente. (_UN Cybercrime Treaty_).

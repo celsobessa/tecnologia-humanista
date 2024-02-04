@@ -7,11 +7,11 @@ sourceLanguageText: Português
 
 date: 2022-09-27
 tags:
-  - Notícias
-  - Direitos da Mulheres
-  - Feminismo
-  - Tecnologia
-  - Violência Doméstica
+  - notícias
+  - direitos da mulheres
+  - feminismo
+  - tecnologia
+  - violência Doméstica
 ---
 
 O PenhaS é um aplicativo iOS e Android criado pela Revista AzMina para ajudar mulheres vítimas de violência doméstica e violência.

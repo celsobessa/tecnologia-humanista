@@ -6,7 +6,7 @@ sourceUrl: https://themarkup.org/hello-world/2023/02/04/journalistic-lessons-for
 sourceLanguageText: inglês
 
 date: 2023-02-04
-tags: 
+tags:
   - notícias
   - julia angwin
   - the markup

@@ -6,7 +6,7 @@ sourceUrl: https://internetlab.org.br/pt/semanario/
 sourceLanguageText: Português
 
 date: 2022-12-02
-tags: 
+tags:
   - notícias
   - igualdade de gênero
   - política pública

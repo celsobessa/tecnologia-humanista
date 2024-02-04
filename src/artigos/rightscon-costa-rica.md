@@ -1,12 +1,12 @@
 ---
 title: Rightscon Costa Rica
-description: Site da Rightscon, com informações da cúpula mundial focada em direitos humanos na era digital, que acontecerá na Costa Rica. 
+description: Site da Rightscon, com informações da cúpula mundial focada em direitos humanos na era digital, que acontecerá na Costa Rica.
 sourceTitle: Rightscon
 sourceUrl: https://www.rightscon.org/
 sourceLanguageText: Inglês
 
 date: 2022-11-20
-tags: 
+tags:
   - notícias
   - direitos humanos
   - conferência

@@ -6,15 +6,15 @@ sourceUrl: https://privacyforum.eu/
 sourceLanguageText: inglês
 
 date: 2023-01-27
-tags: 
+tags:
   - notícias
   - evento
   - privacidade
   - proteção de dados
-  - 
+  -
 ---
 
-Conhecido por promover debates de alto nível, o Annual Privacy Forum irá reunir, entre 1 e 2 de junho, em Lyon, França, experts na área de privacidade e proteção de dados. Pesquisadores e estudiosos do assunto podem enviar artigos científicos até o dia 2 de fevereiro. 
+Conhecido por promover debates de alto nível, o Annual Privacy Forum irá reunir, entre 1 e 2 de junho, em Lyon, França, experts na área de privacidade e proteção de dados. Pesquisadores e estudiosos do assunto podem enviar artigos científicos até o dia 2 de fevereiro.
 
 > "O valor dos dados pessoais no mundo online aumentou significativamente nos últimos anos, à medida que os produtos, serviços e processos eletrônicos permearam todas as dobras da vida cotidiana. Limitações na transparência, funcionalidade e interconectividade dos serviços on-line e de comunicação aumentam o risco de processamento de dados pessoais fora do controle de qualquer pessoa ou organização responsável ou simplesmente exposição a todos os tipos de ameaças à privacidade.
 >

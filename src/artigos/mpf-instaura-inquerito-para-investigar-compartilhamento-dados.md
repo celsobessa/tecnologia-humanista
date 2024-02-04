@@ -10,8 +10,8 @@ tags:
   - notícias
   - dados
   - privacidade
-  - Ministério da Economia
-  - Internet Lab
+  - ministério da Economia
+  - internet lab
 ---
 
 Via newsletter InternetLab:

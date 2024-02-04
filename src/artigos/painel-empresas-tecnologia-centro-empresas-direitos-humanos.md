@@ -10,7 +10,7 @@ tags:
   - painel
   - direitos trabalhistas
   - economia do bico
-  - Centro de Informação sobre Empresas e Direitos Humanos
+  - centro de informação sobre Empresas e Direitos Humanos
   - empresas de tecnologia
   - direitos humanos
 ---

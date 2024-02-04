@@ -8,7 +8,7 @@ sourceLanguageText: Português
 date: 2022-09-28
 tags:
   - notícias
-  - Fórum da Internet Brasil
+  - fórum da Internet Brasil
   - convocatórias
   - seminários
   - eventos

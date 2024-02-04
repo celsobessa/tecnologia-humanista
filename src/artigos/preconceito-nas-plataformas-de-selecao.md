@@ -6,10 +6,10 @@ sourceUrl: https://theintercept.com/2022/11/24/como-plataformas-de-inteligencia-
 sourceLanguageText: português
 
 date: 2022-11-24
-tags: 
+tags:
   - notícias
   - etarismo
-  - IA
+  - ia
   - discriminação
   - direitos humanos
 ---

@@ -6,17 +6,17 @@ sourceUrl: https://www.codeforsociety.org/jobs/
 sourceLanguageText: Inglês
 
 date: 2022-11-07
-tags: 
+tags:
   - notícias
   - vagas
   - emprego
   - tecnologia
-  - Code for Science and Society
+  - code for science and society
 ---
 
-Confira as vagas abertas na CS&S. 
+Confira as vagas abertas na CS&S.
 
-> View current openings at CS&S and its fiscally sponsored projects. 
+> View current openings at CS&S and its fiscally sponsored projects.
 >
 > Our infrastructure ensures access to employee benefits across all projects. And, our programmatic support allows small projects to benefit from the resources of a larger organization.
 >

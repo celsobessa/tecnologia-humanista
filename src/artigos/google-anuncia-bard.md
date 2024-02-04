@@ -6,11 +6,11 @@ sourceUrl: https://blog.google/intl/pt-br/novidades/iniciativas/um-proximo-passo
 sourceLanguageText: Português
 
 date: 2023-02-06
-tags: 
+tags:
   - notícias
-  - Inteligência Artificial
-  - Bard
-  - chatGPT
+  - inteligência artificial
+  - bard
+  - chatgpt
   - tag 5
 ---
 

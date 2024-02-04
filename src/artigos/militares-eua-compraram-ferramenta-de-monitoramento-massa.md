@@ -9,7 +9,7 @@ date: 2022-09-28
 tags:
   - notícias
   - vigilância
-  - Estados Unidos
+  - estados unidos
   - monitoramento em massa
   - espionagem
 ---

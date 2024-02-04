@@ -1,18 +1,18 @@
 ---
 title: Livro Inteligência de Estado na internet e redes sociais - privacidade sob ameaça.
-description: No livro, os autores Lucía Camacho Gutiérrez, Daniel Ospina Celis y Juan Carlos Upegui Mejía discutem as capacidades estatais de inteligência em fontes abertas (OSINT) na Colômbia e sua legalidade. 
+description: No livro, os autores Lucía Camacho Gutiérrez, Daniel Ospina Celis y Juan Carlos Upegui Mejía discutem as capacidades estatais de inteligência em fontes abertas (OSINT) na Colômbia e sua legalidade.
 sourceTitle: "Publicación - Inteligencia del Estado en Internet y Redes Sociales: Privacidad Bajo la Amenaza"
 sourceUrl: https://www.dejusticia.org/publication/inteligencia-estatal-en-internet-y-redes-sociales-la-privacidad-bajo-amenaza/
 sourceLanguageText: Español
 
 date: 2023-02-28
-tags: 
+tags:
   - notícias
   - libros
   - ciberpatrullaje
-  - OSINT
-  - Colombia
-  - Dejusticia
+  - osint
+  - colômbia
+  - dejusticia
 ---
 
 No livro "Inteligencia estatal en internet y redes sociales: la privacidad bajo amenaza", Lucía Camacho Gutiérrez, Daniel Ospina Celis y Juan Carlos Upegui Mejía discutem as capacidades estatais de inteligência em fontes abertas (OSINT) na Colômbia e sua legalidade e advertem: "os limites da legislação são bastante exíguos e que a autorregulação dos órgãos de inteligência é quase inexistente".

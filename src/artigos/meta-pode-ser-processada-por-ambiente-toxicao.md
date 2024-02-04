@@ -6,7 +6,7 @@ sourceUrl: https://www.businessdailyafrica.com/bd/corporate/companies/facebook-p
 sourceLanguageText: Inglês
 
 date: 2023-02-06
-tags: 
+tags:
   - notícias
   - facebook
   - ambiente tóxico

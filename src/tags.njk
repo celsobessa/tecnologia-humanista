@@ -1,0 +1,27 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /tags/{{ tag | slugify }}/
+---
+{% include "./_includes/partials/htmlhead.njk" %}
+<header>
+  <nav class="general-navigation">
+    {% navlist collections.all | eleventyNavigation, page, 1 %}
+  </nav>
+  <div>
+    <h1>{{ tag }}</h1>
+    <p class="tagline">Confira tudo o que foi publicado com a categoria <em>{{ tag }}.</em></p>
+  </div>
+</header>
+
+{% block content %}
+
+  {{ content | safe }}
+ {% set pagelist = collections[ tag ] %}
+  {% include "./_includes/partials/pagelist.njk" %}
+
+{% endblock %}
+
+{% include "./_includes/partials/htmlfoot.njk" %}

@@ -10,7 +10,7 @@ tags:
   - notícias
   - evento
   - ativismo digital
-  - TCU
+  - tcu
   - ativismo
 ---
 

@@ -6,7 +6,7 @@ sourceUrl: https://simplelogin.io/pricing/
 sourceLanguageText: Inglês
 
 date: 2022-11-06
-tags: 
+tags:
   - notícias
   - e-mail
   - privacidade

@@ -6,11 +6,11 @@ sourceUrl: https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposic
 sourceLanguageText:  Português
 
 date: 2022-12-02
-tags: 
-  - Câmara dos Deputados
+tags:
+  - câmara dos Deputados
   - políticas pública
-  - Gênero
-  - Tecnologia da Informação
+  - gênero
+  - tecnologia da informação
 ---
 
 Visto na newsletter do [InternetLab](https://internetlab.org.br/).

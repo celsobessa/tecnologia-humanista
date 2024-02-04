@@ -1,12 +1,12 @@
 ---
 title: We Joined Mastodon. Here’s What We Learned About Privacy and Security
-description: Uma análise das características do Mastodon em termos de segurança, privacidade, acessibilidade e cultura. 
+description: Uma análise das características do Mastodon em termos de segurança, privacidade, acessibilidade e cultura.
 sourceTitle: The Markup
 sourceUrl: https://themarkup.org/the-breakdown/2022/11/21/we-joined-mastodon-heres-what-we-learned-about-privacy-and-security/
 sourceLanguageText: Inglês
 
 date: 2022-11-21
-tags: 
+tags:
   - notícias
   - rede social
   - mastodon
@@ -14,8 +14,8 @@ tags:
   - segurança
 ---
 
-Com a interferência de Elon Musk na direção do Twitter, milhares de pessoas estão migrando para o Mastodon. A plataforma de código aberto, descentralizada, tem características bastante distintas das do Twitter. 
-A equipe do Markup analisou algumas, como segurança, privacidade, acessibilidade e cultura. 
+Com a interferência de Elon Musk na direção do Twitter, milhares de pessoas estão migrando para o Mastodon. A plataforma de código aberto, descentralizada, tem características bastante distintas das do Twitter.
+A equipe do Markup analisou algumas, como segurança, privacidade, acessibilidade e cultura.
 
 >"Each instance has its own policies to define its community, including the default language, content moderation standards, topics, and general house rules. The administrators of your instance will have a lot of control over your content and your account, so depending upon how you are planning on using Mastodon, this choice matters a lot".
 >

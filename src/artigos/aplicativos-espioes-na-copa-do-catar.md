@@ -6,12 +6,12 @@ sourceUrl: https://www.schneier.com/blog/archives/2022/10/qatar-spyware.html
 sourceLanguageText: Inglês
 
 date: 2022-10-18
-tags: 
+tags:
   - notícias
   - spyware
   - app
-  - Copa do Mundo
-  - Catar
+  - copa do mundo
+  - catar
 ---
 
 Todos que viajarem para o Catar durante a Copa do Mundo de futebol terão que baixar dois aplicativos espiões, Ehteraz e Hayya.

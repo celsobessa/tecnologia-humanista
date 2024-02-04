@@ -9,7 +9,7 @@ date: 2022-09-29
 tags:
   - notícias
   - publicidade direcionada
-  - Estados Unidos
+  - estados unidos
   - dados
   - privacidade
 ---

@@ -6,16 +6,16 @@ sourceUrl: https://web.karisma.org.co/cuando-el-estado-vigila-ciberpatrullaje-y-
 sourceLanguageText: Espanhol
 
 date: 2023-02-28
-tags: 
+tags:
   - notícias
-  - OSINT
+  - osint
   - estado de direito
-  - Colômbia
+  - colômbia
   - vigilância
-  - Fundación Karisma
+  - fundación Karisma
 ---
 
-A Fundación Karisma investigou as capacidades técnicas e os instrumentos legais colombianos sobre vigilância na internet e outras fontes abertas e afirma: 
+A Fundación Karisma investigou as capacidades técnicas e os instrumentos legais colombianos sobre vigilância na internet e outras fontes abertas e afirma:
 _"Os recursos OSINT que estão sendo adquirido para patrulha cibernética são ilegais, conceitualmente incertos e preocupantes"_.
 
 > En suma, que el ciberpatrullaje se desarrolle en una norma infralegal, que no aclara qué es, cómo se hace y quiénes están autorizados para realizar ciberpatrullaje significa que no se cumplen los

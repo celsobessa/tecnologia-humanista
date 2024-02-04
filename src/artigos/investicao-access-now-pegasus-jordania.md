@@ -8,10 +8,10 @@ sourceLanguageText: Inglês
 date: 2024-02-01
 tags:
   - investigação
-  - Jordânia
-  - AccessNow
+  - jordânia
+  - accessnow
   - spyware
-  - NSO
+  - nso
   - programas espiões
 ---
 

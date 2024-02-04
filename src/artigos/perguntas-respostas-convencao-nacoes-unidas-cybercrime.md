@@ -10,10 +10,10 @@ tags:
   - accessnow
   - crimes cibernéticos
   - cybercrime
-  - Nações Unidas
-  - FAQ
-  - Perguntas e Respostas
-  - Ativismo
+  - nações Unidas
+  - faq
+  - perguntas e respostas
+  - ativismo
 ---
 
 A AccessNow publicou recentemente uma seção de Perguntas e Respostas (FAQ) sobre a Convenção e Tratado das Nações Unidas sobre Crimes Cibernéticos (_UN Cybercrime Treaty_). Além de perguntas e respostas sobre o tratado -- o qual a Accessnow e dezenas de outras organizações são críticas, na forma em que está redigido hoje --, conta com uma linha de tempo levando a diversas outras notícias, artigos, reportagens, [declarações](declaracao-conjunta-convencao-nacoes-unidas-cybercrime-accessnow.md) e estudos sobre o tema. Vale a pena acompanhar.

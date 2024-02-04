@@ -6,7 +6,7 @@ sourceUrl: https://eandt.theiet.org/content/articles/2022/11/scotland-publishes-
 sourceLanguageText: Inglês
 
 date: 2022-11-16
-tags: 
+tags:
   - notícias
   - dados biométricos
   - ética

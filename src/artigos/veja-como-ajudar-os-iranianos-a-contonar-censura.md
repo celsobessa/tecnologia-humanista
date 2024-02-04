@@ -3,11 +3,11 @@ title: Veja como ajudar os iranianos a contornar a censura
 description: O Estado Iraniano está censurando a Internet em meio à manifestações no país, veja como você pode ajudar os iranianos a contornar a censura.
 date: 2022-09-27
 tags:
-  - Notícias
-  - Irã
-  - Signal
-  - Tecnologia
-  - Democracia
+  - notícias
+  - irã
+  - signal
+  - tecnologia
+  - democracia
 ---
 
 Com as manifestações cada vez maiores nos últimos dias, o governo iraniano está tentando restringir a capacidade dos manifestantes de informar ao mundo o que está acontecendo lá. Além de diferentes níveis de interrupção da Internet, estão bloqueando o acesso ao [Signal](https://signal.org/pt_BR/), aplicativo de mensagens instantâneas criptografadas, uma importante ferramenta para comunicação de forma mais segura e privada.

@@ -7,14 +7,14 @@ sourceLanguageText: Inglês
 
 date: 2024-01-20
 tags:
-  - Data Privacy Brazil
-  - Sul Global
-  - Global South
+  - data privacy brazil
+  - sul global
+  - global south
   - dataficação
-  - Democracia
+  - democracia
   - datafication
-  - Fundos
-  - Grants
+  - fundos
+  - grants
 ---
 
 O fundo, gerenciado pela _Data Privacy Brasil_, irá selecionar "_organizações sem fins lucrativos e não governamentais do Sul Global com envolvimento ativo em atividades relacionadas à política e defesa dos direitos digitais_" para receberem **fundos entre 2.000 e 8.000 dólares para seus projetos ligados à intersecção de dados, tecnologia e democracia**.

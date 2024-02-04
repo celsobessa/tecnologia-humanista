@@ -8,7 +8,7 @@ sourceLanguageText: Inglês
 date: 2022-09-29
 tags:
   - notícias
-  - Ghostery
+  - ghostery
   - rastreamento
   - dados
   - privacidade

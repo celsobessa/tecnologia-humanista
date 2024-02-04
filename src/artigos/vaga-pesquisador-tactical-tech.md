@@ -1,12 +1,12 @@
 ---
 title: Vaga aberta para pesquisador em temas de alfabetização digital e midiática para públicos jovens intergeracionais
-description: A Tactical Tech, ONG baseada em Berlim que investiga o impacto das tecnologias digtais na sociedade, está procurando  um pesquisador  especializado em alfabetização digital e midiática. 
+description: A Tactical Tech, ONG baseada em Berlim que investiga o impacto das tecnologias digtais na sociedade, está procurando  um pesquisador  especializado em alfabetização digital e midiática.
 sourceTitle: Tactital Tech
 sourceUrl: https://tacticaltech.org/news/open-call-researcher-youth/
 sourceLanguageText: Inglês
 
 date: 2023-02-02
-tags: 
+tags:
   - notícias
   - vaga
   - trabalho

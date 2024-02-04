@@ -10,7 +10,7 @@ tags:
   - notícias
   - artigos
   - perfilamento
-  - OSINT
+  - osint
   - redes sociais
 ---
 

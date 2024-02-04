@@ -10,7 +10,7 @@ tags:
   - notícias
   - transparência
   - algoritmo
-  - CDT
+  - cdt
 ---
 Um interessante artigo do Center for Democracy and Technology sobre transparência algorítmica (em inglês).
 

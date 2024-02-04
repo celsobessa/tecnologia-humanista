@@ -10,8 +10,8 @@ tags:
   - opinião
   - ética
   - inteligência artificial
-  - chatGPT
-  - IA Geradora
+  - chatgpt
+  - ia geradora
 ---
 
 Uma abordagem diferente sobre os problemas éticos e práticos da assim chamada inteligência artificial ("Não se preocupe com a IA saindo de sua caixa - preocupe-se conosco invadindo-a") em artigo de opinião de Rob Reid na Ars Technica: "Os piores impulsos humanos encontrarão muitos usos para a IA generativa." Em inglês.
