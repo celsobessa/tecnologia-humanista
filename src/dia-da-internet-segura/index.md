@@ -1,16 +1,16 @@
 ---
 title: Webinário Senhas Mais Seguras sem Enlouquecer - Dia da Internet Segura
-description: Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário te ensiando como ter senhas mais seguras e únicas sem enlouquecer.  O Webinário Senhas Mais Seguras sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
+description: Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário para você aprender como ter senhas mais seguras e únicas sem enlouquecer.  O Webinário Senhas Mais Seguras sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
 eleventyNavigation:
   key: Webinário Dia da Internet Segura 2024
   order: 200
 ---
 
-Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário te ensiando como ter senhas mais seguras e únicas sem enlouquecer.  O Webinário Senhas Mais Seguras Sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
+Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário para você como ter senhas mais seguras e únicas sem enlouquecer.  O webinário Senhas Mais Seguras Sem Enlouquecer será no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
 
 ## Como participar
 
-**O webinário tem vagas limitadas** e para participar, bastar enviar um email para o endereço **_technologiahumanista{arroba}proton.me_** com o assunto Webinário Dia da Internet Segura e nós enviaremos o link para o webinar meia hora antes do evento. Fique tranquila/o/e, O tecnologia não rastreia se você clicou ou abriu nossos emails, e não guarda nenhum dado além do seu email, tudo para preservar um pouco mais de sua privacidade.
+**O webinário tem vagas limitadas** e para participar, bastar enviar um email para o endereço **_technologiahumanista{arroba}proton.me_** com o assunto Webinário Dia da Internet Segura e nós enviaremos o link para o webinar meia hora antes do evento. Fique tranquila/o/e, o Tecnologia Humanista não rastreia se você clicou ou abriu nossos emails, e não guarda nenhum dado além do seu email. Tudo para preservar um pouco mais de sua privacidade.
 
 ## Boletim Tecnologia Humanista
 
