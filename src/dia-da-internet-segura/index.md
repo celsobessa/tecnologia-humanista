@@ -14,7 +14,7 @@ Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana d
 
 ## Boletim Tecnologia Humanista
 
-Para ficar por dentro de novidades e novoas palestras, seminários, etc, você pode assinar nosso boletim (_newsletter_).  Você só precisar enviar um email para o endereço **_technologiahumanista{arroba}proton.me_**
+Para ficar por dentro de novidades e novoas palestras, seminários, etc, você pode assinar nosso boletim (_newsletter_).  Você só precisar enviar um email para o endereço **_tecnologiahumanista{arroba}proton.me_**
 
 Para preservar um pouquinho mais de sua privacidade, nós não rastreamos se você clica ou abre nossas mensagen, e não guardamos nenhum dado além do seu endereço de email.
 
