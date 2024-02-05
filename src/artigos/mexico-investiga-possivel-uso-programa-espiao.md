@@ -1,7 +1,7 @@
 ---
 title: 'México investiga uso de spyware pelo exército contra ativistas de direitos humanos'
 description: 'Comissão governamento no México investiga possíveis abusos de direitos humanos por parte dos militares, através do uso de software espião para espionar ativistas e jornalistas de direitos humanos.'
-sourceTitle: 'Mexico probes army's use of spyware against human rights activists'
+sourceTitle: 'Mexico probes army s use of spyware against human rights activists'
 sourceUrl: https://www.npr.org/transcripts/1164565631
 sourceLanguageText: Português
 
