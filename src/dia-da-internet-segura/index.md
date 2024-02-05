@@ -10,7 +10,7 @@ Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana d
 
 ## Como participar
 
-**O webinário tem vagas limitadas** e para participar, bastar enviar um email para o endereço **_technologiahumanista{arroba}proton.me_** com o assunto Webinário Dia da Internet Segura e nós enviaremos o link para o webinar meia hora antes do evento. Fique tranquila/o/e, o Tecnologia Humanista não rastreia se você clicou ou abriu nossos emails, e não guarda nenhum dado além do seu email. Tudo para preservar um pouco mais de sua privacidade.
+**O webinário tem vagas limitadas** e para participar, bastar enviar um email para o endereço **_tecnologiahumanista{arroba}proton{ponto}me_** com o assunto Webinário Dia da Internet Segura e nós enviaremos o link para o webinar meia hora antes do evento. Fique tranquila/o/e, o Tecnologia Humanista não rastreia se você clicou ou abriu nossos emails, e não guarda nenhum dado além do seu email. Tudo para preservar um pouco mais de sua privacidade.
 
 ## Boletim Tecnologia Humanista
 
