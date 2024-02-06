@@ -5,7 +5,7 @@ sourceTitle: 'PF deflagra Operação Vigilância Aproximada para investigar moni
 sourceUrl: https://www.gov.br/pf/pt-br/assuntos/noticias/2024/01/pf-deflagra-operacao-vigilancia-aproximada-para-investigar-monitoramento-indevido-de-cidadaos
 sourceLanguageText: Português
 
-date: 2023-03-18
+date: 2022-02-02
 tags:
   - vazamento de dados
   - ministério público
