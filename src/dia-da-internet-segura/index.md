@@ -1,20 +1,20 @@
 ---
-title: Webinário Senhas Mais Seguras sem Enlouquecer - Dia da Internet Segura
-description: Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário para você aprender como ter senhas mais seguras e únicas sem enlouquecer.  O Webinário Senhas Mais Seguras sem Enlouquecer irá acontecer no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
+title: Webinário Senhas Mais Seguras sem Enlouquecer - Dia da Internet Segura 2024
+description: Dia 6 de Fevereiro de 2024 foi comemorado o Dia da Internet Segura. No dia 08, realizamos o Webinário Senhas Mais Seguras sem Enlouquecer e agora compartilhamos a apresentação utilizada durante o evento, com algumas revisões.
 eleventyNavigation:
   key: Webinário Dia da Internet Segura 2024
   order: 200
 ---
 
-Dia 6 de Fevereiro é comemorado o Dia da Internet Segura. Este ano, na semana da Internet Segura, vamos fazer um webinário para você como ter senhas mais seguras e únicas sem enlouquecer.  O webinário Senhas Mais Seguras Sem Enlouquecer será no dia 08 de fevereiro de 2024 às 20:00 no horário de Brasília.
+Dia 6 de Fevereiro foi comemorado o Dia da Internet Segura. No dia 08 de fevereiro realizamos o **Webinário Senhas Mais Seguras sem Enlouquecer** e agora compartilhamos a apresentação utilizada durante o evento, com algumas revisões.
 
-## Como participar
+**[Você pode baixar o PDF com a apresentação clicando aqui.](../baixaveis/senhas-mais-seguras.pdf)**
 
-**O webinário tem vagas limitadas** e para participar, bastar enviar um email para o endereço **_tecnologiahumanista{arroba}proton{ponto}me_** com o assunto Webinário Dia da Internet Segura e nós enviaremos o link para o webinar meia hora antes do evento. Fique tranquila/o/e, o Tecnologia Humanista não rastreia se você clicou ou abriu nossos emails, e não guarda nenhum dado além do seu email. Tudo para preservar um pouco mais de sua privacidade.
+**Muito obrigado aos participantes!**
 
-## Boletim Tecnologia Humanista
+## Como participar dos próximos webinarios
 
-Para ficar por dentro de novidades e novoas palestras, seminários, etc, você pode assinar nosso boletim (_newsletter_).  Você só precisar enviar um email para o endereço **_tecnologiahumanista{arroba}proton.me_**
+Para ficar por dentro dos próximos webinários, novidades e notícias, você pode assinar nosso boletim (_newsletter_).  Você só precisar enviar um email para o endereço **_tecnologiahumanista{arroba}proton.me_**
 
 Para preservar um pouquinho mais de sua privacidade, nós não rastreamos se você clica ou abre nossas mensagen, e não guardamos nenhum dado além do seu endereço de email.
 
