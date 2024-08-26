@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Folha na Sala: Por quê a escola pública é uma máquina de fazer democracia'
-description: '"Só existirá democracia no Brasil no dia em que se montar no país a máquina que prepara as democracias. Essa máquina é a da escola pública". Estamos integralmente de acordo com esta e outras afirmações de Anísio Teixeira no podcast Folha na Sala, uma ótima discussão sobre o papel da escola em fortalecer a democracia.'
+description: '"Só existirá democracia no Brasil no dia em que se montar no país a máquina que prepara as democracias. Essa máquina é a da escola pública". Estamos integralmente de acordo com esta e outras afirmações de Anísio Teixeira no podcast Folha na Sala, uma ótima discussão sobre o papel da escola em fortalecer a democracia'
 sourceTitle: 'Podcast explica por que a escola pública é uma máquina de fazer democracia'
 sourceUrl: https://www1.folha.uol.com.br/podcasts/2023/12/podcast-explica-por-que-a-escola-publica-e-uma-maquina-de-fazer-democracia.shtml
 sourceLanguageText: Português
