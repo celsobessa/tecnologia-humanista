@@ -7,7 +7,7 @@ sourceLanguageText: 'Português'
 
 date: 2024-08-10
 tags:
-  - inteligencia artificial
+  - inteligência artificial
   - tecnologia
   - soberania tecnologia
   - governo
