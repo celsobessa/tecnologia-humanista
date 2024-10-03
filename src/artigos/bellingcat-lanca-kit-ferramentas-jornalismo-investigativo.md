@@ -23,7 +23,6 @@ O recurso é excelente para jornalistas iniciantes e experientes, e também inve
 > "O PBIA busca desenvolver soluções em IA que melhorem significativamente a qualidade de vida da população, otimizando a entrega de serviços públicos e promovendo a inclusão social. Para alcançar esses objetivos, o plano prevê a criação de um supercomputador de alta performance, essencial para o processamento de grandes volumes de dados e o desenvolvimento de algoritmos avançados de IA."
 
 > "Como destacou a Ministra de Ciência, Tecnologia e Inovação, a inteligência artificial representa uma verdadeira revolução tecnológica e o Brasil precisa estar na vanguarda desse movimento. O PBIA, em conjunto com iniciativas como o Instituto de Inteligência Artificial do LNCC, visa garantir que o país seja um protagonista nesse cenário global, gerando empregos, promovendo a inovação e construindo um futuro mais próspero para todos."
-> "É importante por quê: VPNs é uma das ferramentas mais importantes para combater censura, proteção de dissidentes e privacidade dos cidadãos."
 
 Infelizmente, o recurso está disponível em inglês. Se você se interessa por uma versão em português, envie um email tecnologiahumanista`{{ponto}}`proton`{{ponto}}`me com o assunto _kit investigativo em português_ e nós vamos avisar quando o kit for traduzido.
 
