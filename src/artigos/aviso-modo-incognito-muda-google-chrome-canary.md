@@ -2,7 +2,7 @@
 title: Google modifica aviso sobre modo incógnito para esclarecer que ainda pode te rastrear (via Wired)
 description: 'Na esteira de um acordo em um processo coletivo nos EUA, o Google está modificando o aviso que aparece quando um usuário abre o modo "incógnito" para informar que ainda pode te rastrear mesmo no modo que deveria "privado".  Em nossos testes, já podemos ver novo aviso em inglês, português, espanhol e francês. **Mas não estamos satisfeitos**'
 sourceTitle: 'Google Updates Chrome’s Incognito Warning to Admit It Tracks Users in ‘Private’ Mode'
-sourceUrl: https://www.wired.com/story/chrome-incognito-mode-privacy-warning/
+sourceUrl: 'https://www.wired.com/story/chrome-incognito-mode-privacy-warning/'
 sourceLanguageText: Inglês
 
 date: 2024-01-17
