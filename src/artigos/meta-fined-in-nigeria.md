@@ -17,7 +17,7 @@ tags:
   - políticas públicas
 ---
 
-Em Julho de 2024, a Comissão Federal de Concorrência e Proteção ao Consumidor (Nigeria's Federal Competition and Consumer Protection Commissio, FCCP) da Nigéria multou a META por “coleta excessiva de dados”. O advogado e pesquisador em tecnologia de interesse público Chukwuyere Izuogu fez uma análise detalhada e bem interessante do caso.
+Em Julho de 2024, a Comissão Federal de Concorrência e Proteção ao Consumidor (Nigeria's Federal Competition and Consumer Protection Commissio, FCCP) da Nigéria multou a META por “coleta excessiva de dados”. O advogado e pesquisador em tecnologia de interesse público Chukwuyere Izuogu fez uma análise detalhada e bem interessante do caso. Vale a pena a leitura do artigo, disponível em inglês apenas.
 
 > _" Será interessante ver como os argumentos apresentados por ambas as partes moldarão a interconexão em evolução entre a proteção de dados e a proteção do consumidor na Nigéria. O resultado desse caso poderá reforçar a função da FCCPC na proteção da privacidade do consumidor ou exigir uma recalibração de como as leis de privacidade de dados podem ser aplicadas como uma lei de proteção ao consumidor na Nigéria."_
 
