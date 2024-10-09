@@ -17,7 +17,7 @@ tags:
 
 Vaga bem interessante na Freedom of the Press Foundation (Fundação pela Liberdade de Imprensa), organização dos EUA que promove a liberdade de imprensa através de litígios, campanhas, treinamento em segurança e o desenvolvimento de ferramentas como SecureDrop, que facilita para que fontes, especialmente delatores (whistleblowing), enviarem informação relevante de interesse público de forma mais segura e anônima. Entre os membros do conselho, estão Laura Poitras, Edward Snowden, Trevor Timm, John Cusack, Azmat Khan e outros jornalistas e ativistas pela liberdade de imprensa.
 
-Com o lançamento da nova versão do SecureDrop, e o vindouro protocolo SecureDrop, estão buscando profissionais experientes de cybersegurança, TIC e segurança digital para darem suporte a veículos de imprensa na trasição para novas versões do SecureDrop.
+Com o lançamento da nova versão do SecureDrop, e o vindouro [protocolo SecureDrop](https://securedrop.org/news/introducing-securedrop-protocol/) (link em inglês), estão buscando profissionais experientes de cybersegurança, TIC e segurança digital para darem suporte a veículos de imprensa na trasição para novas versões do SecureDrop.
 
 Saiba mais no site da fundação, em inglês: [https://freedom.press/careers/job/?gh_jid=4471699005](https://freedom.press/careers/job/?gh_jid=4471699005)
 
