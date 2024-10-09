@@ -12,7 +12,7 @@ Nesta página, reunimos links de alguns recursos como serviços de suporte rápi
 
 
 
-## Suporte em Segurança Digital e Holística
+### Suporte em Segurança Digital e Holística
 
 > **[Líneas de Atención Feministas (em espanhol)](https://feministhelplines.org/es/support/)**:
 > _Um diretório de serviços de linha de atenção feministas que oferece apoio em casos de violência de gênero em ambientes digitais ou facilitados por tecnologia:_
@@ -21,3 +21,7 @@ Nesta página, reunimos links de alguns recursos como serviços de suporte rápi
 
 <hr>
 
+## Podcasts sobre tecnologia de interesse público, direitos digitais e sociedade
+
+> **[Quebra.Dev (em português)](https://quebra.dev/)**: como descrito no site oficial: "podcast de origem periférica que surgiu com o objetivo de representar quem é de quebrada na área de tecnologia, além de tentar trazer para o cerne dessa profissão quem tem interesse em ingressar (priorizando o diálogo com quem é de quebrada)."
+> - Em Português: [https://quebra.dev/](https://quebra.dev/)
