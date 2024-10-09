@@ -9,7 +9,11 @@ date: 2024-10-04
 tags:
   - sudoamérica
   - sud0
-  -
+  - eventos
+  - hacktivismo
+  - argentina
+  - buenos aires
+  - américa latina
 ---
 
 O sudoAmérica 2024 acontecerá em Buenos Aires nos dias 22 e 23 de Novembro de 2024, com o objetivo de juntar hacktivistas, pesquisadores, artistas e diversas comunidades para compartilharem conhecimento e debaterem a tecnologia desde uma perspectiva crítica, interseccional e latinoamericana.
