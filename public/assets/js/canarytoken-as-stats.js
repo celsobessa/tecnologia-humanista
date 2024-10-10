@@ -8,17 +8,21 @@ var clickHandler = async function (event) {
 
 	// Only run on kudos-anchor elementor
 	let k = event.target.className;
-	if ( k.contains('kudos') == false){
+	if ( k.includes('kudos') == false){
         return;
     };
 
-    await registerView(
-      "https://3j2jrsdxtdf4xsx54m2rrdfdn.canarytokens.com?content=xpto2"
-    )
-    .then((response) => {
-      console.log(`response for click hander is`);
-      console.log(response);
-    });
+    try {
+        await registerView(
+          "https://3j2jrsdxtdf4xsx54m2rrdfdn.canarytokens.com?content=xpto2"
+        ).catch((err) => {
+          console.error(err);
+          return "default response";
+        });
+    } catch (error) {
+      console.log(`error for click hander is`);
+      console.log(err);
+    }
 };
 
 /**
