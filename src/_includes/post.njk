@@ -6,11 +6,11 @@
   {{ content | safe }}
 
     <ul class="keep-reading">
-    {% if sourceUrl %}<li><a href="{{ sourceUrl }}">ler original em {{ sourceTitle }} (em {{ sourceLanguageText }})</a></li>{% endif %}
-        <li>Se você gostou deste conteúdo, por favor <b><a class="kudos-anchor">clique aqui para sabermos que você gostou</a></b>.<br/>
-        (nada além de seu IP será registrado, e mesmo assim, apenas por 31 dias)
-        </li>
+    {% if sourceUrl %}<li><a href="{{ sourceUrl }}">ler original em <em>{{ sourceTitle }}</em> (em {{ sourceLanguageText }})</a></li>{% endif %}
     </ul>
+    <hr>
+    <p class="kudos-message">Se você gostou deste conteúdo, por favor <b><a class="kudos-anchor">clique aqui para sabermos que você gostou</a></b>.<br/>(nada além de seu IP será registrado, e mesmo assim, apenas por 31 dias)
+    </p>
   </article>
   <nav class="postnav">
     <ul>

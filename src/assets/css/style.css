@@ -253,6 +253,7 @@ blockquote {
 .keep-reading li {
     background-color: #ffbc23;
     border-left: 1rem solid #900;
+    font-size: 1.05rem;
     padding: 0.5rem;
     margin-bottom: 1rem;
 }
@@ -262,6 +263,12 @@ blockquote {
 article:nth-of-type(even) .keep-reading a {
     color: #000;
     text-decoration: none;
+}
+.kudos-message {
+    background-color: #ddd;
+    font-size: 1.05rem;
+    margin: 5rem auto;
+    padding: 1rem;
 }
 
 @media screen and (min-width: 576px) {
@@ -309,6 +316,9 @@ article:nth-of-type(even) .keep-reading a {
         font-size: 1.266rem;
         line-height: 1.6;
         margin-bottom: 1.6rem;
+    }
+    .keep-reading li {
+        font-size: 1.266rem;
     }
 }
 /*
