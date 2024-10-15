@@ -10,9 +10,9 @@ tags:
   - cuba
   - censura
   - censorship
-  - Guardianes Digitales
-  - Citizen Lab
-  - OONI
+  - guardianes digitales
+  - citizen lab
+  - ooni
 ---
 
 O grupo cubano Guardianes Digitales (Guardiões Digitais) acaba de publicar o sexto relatório de sua série dedicadas a investigar a quantas anda censura de sites e aplicações em Cuba. O relatório se baseia no teste de quase 280 domínios e os resultados da investigação incluem sites e aplicações bloqueadas, assim como métodos utilizados.
