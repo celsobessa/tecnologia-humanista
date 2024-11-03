@@ -5,7 +5,7 @@ sourceTitle: 'Sustainable and Equitable Internet Infrastructure Dialogs and Deba
 sourceUrl: 'https://www.thegreenwebfoundation.org/news/sustainable-and-equitable-internet-infrastructure-panels/'
 sourceLanguageText: 'Inglês'
 
-date: 2024-10-24
+date: 2024-11-01
 tags:
   - green web foundation
   - green web
