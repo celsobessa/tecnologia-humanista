@@ -42,4 +42,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          name: public-folder
+          artifact_name: public-folder
