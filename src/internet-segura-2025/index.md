@@ -11,7 +11,7 @@ Na semana da Internet Segura 2025, venha aprender truques para usar a Internet d
 
 Os apps e a publicidade na Internet te vigiam e recolhem um monte de dados sobre você, tirando muito de sua privacidade e alimentando uma indústria mundial de vigilância.
 
-Nesta oficina da Tecnologia Humaniseta, você vai aprender truques e técnicas muitos fáceis para turbinar seu navegador, proteger melhor seu celular e usar a Internet de forma mais segura, privada, mais rápida, e talvez até mais barata.
+Nesta oficina da Tecnologia Humanista, você vai aprender truques e técnicas muitos fáceis para turbinar seu navegador, proteger melhor seu celular e usar a Internet de forma mais segura, privada, mais rápida, e talvez até mais barata.
 
 É no dia 13 de Fevereiro, às 19:00 no horário de Brasília.
 
